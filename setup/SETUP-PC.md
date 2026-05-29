@@ -9,10 +9,12 @@ Hellooooo everyone! Ready to get your Agentic AI environment up and running on W
 Before we get started, let’s make sure you have all the right tools:
 
 ### a. Download and Install Git
+
 - [Git for Windows](https://git-scm.com/download/win)
 - Run the installer and follow the prompts. (Default options are fine!)
 
 ### b. Download and Install UV
+
 - [UV Installer](https://docs.astral.sh/uv/getting-started/installation/)
 - Verify install:
   ```powershell
@@ -20,6 +22,7 @@ Before we get started, let’s make sure you have all the right tools:
   ```
 
 ### c. Download and Install an IDE
+
 - [Cursor](https://www.cursor.com/) or [VS Code](https://code.visualstudio.com/)
 - Download, install, and open your favorite editor.
 
@@ -30,10 +33,12 @@ Before we get started, let’s make sure you have all the right tools:
 Let’s grab the course materials!
 
 ### a. Fork the Repo
+
 - Go to [Agentic AI GitHub Repo](https://github.com/SuperDataScience-Community/agentic-ai)
 - Click **Fork** (top right) to create your own copy.
 
 ### b. Clone to Your Machine
+
 - Open your terminal (PowerShell or Command Prompt).
 - Navigate to your projects directory:
   ```powershell
@@ -84,11 +89,13 @@ Time to install dependencies and set up your virtual environment!
 You’ll need API keys for OpenAI, Gemini, and Anthropic. Here’s how:
 
 ### a. Get Your API Keys
+
 - [OpenAI](https://platform.openai.com/api-keys)
 - [Anthropic](https://console.anthropic.com/settings/keys)
 - [Gemini](https://aistudio.google.com/app/apikey)
 
 ### b. Store Keys in `.env` File
+
 - Open `.env` in your editor and paste your API keys:
   ```env
   OPENAI_API_KEY=sk-...
@@ -98,4 +105,4 @@ You’ll need API keys for OpenAI, Gemini, and Anthropic. Here’s how:
 
 ---
 
-That’s a wrap for your Windows setup, ladies and gentlemen 🎉 Now it’s your turn — I really can’t wait to see what you build!
+That's a wrap for your Windows setup, ladies and gentlemen 🎉 Now it's your turn — I really can't wait to see what you build!
